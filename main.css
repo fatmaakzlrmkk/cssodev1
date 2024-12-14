@@ -1,0 +1,35 @@
+.yazi_orta{
+    text-align: center;
+    color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.yazi_orta a{
+    text-align: center;
+    color: #A7D477;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.yazi_orta_h6{
+    text-align: center;
+    color: #A7D477;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    list-style-position: inside;
+}
+
+.anasayfa_baslik{
+    margin-top: 15px;
+    text-align: center;
+    color: #F29F58;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.body{
+    background-color: #1B1833;
+}
+
+.anasayfa_p{
+    padding-left: 200px;
+    padding-right: 200px; 
+    color: #AB4459;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
